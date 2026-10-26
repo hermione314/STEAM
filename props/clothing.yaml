@@ -48,7 +48,7 @@ alias_of_relation_id: ~         # (list) Fields' names remapped into the same in
 preload_weight: ~               # (dict) Preloaded weight in {IDs (token): pretrained vectors (float-like)}.
 normalize_field: ~              # (list) List of filed names to be normalized.
 normalize_all: True            # (bool) Whether or not to normalize all the float like fields.
-data_path: /Users/liaoyuxin/Desktop/agentcf/dataset
+data_path: dataset
 benchmark_filename: [train, valid, test]
 sampled_user_suffix: random
 recall_budget: 10

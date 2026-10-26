@@ -1,6 +1,6 @@
 user_group_order: ~
 embedding_size: 64
-record_path: /Users/liaoyuxin/Desktop/agentcf/dataset
+record_path: dataset
 # record_path: dataset
 train_neg_sample_args:
   distribution: popularity
